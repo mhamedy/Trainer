@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Trainer">
         <activity
+            android:name=".Advanced"
+            android:exported="false" />
+        <activity
+            android:name=".Intermediate"
+            android:exported="false" />
+        <activity
+            android:name=".Beginners"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
