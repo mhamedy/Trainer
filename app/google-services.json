@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "885850701658",
+    "project_id": "trainer-204aa",
+    "storage_bucket": "trainer-204aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885850701658:android:a596d85d018db2fe19fd63",
+        "android_client_info": {
+          "package_name": "com.mohamed.trainer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885850701658-897unao7ebe7mhkm5lt0klriu3rk1rft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3l740L_-_Dji-O_lcwpZfskESvUquf-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885850701658-897unao7ebe7mhkm5lt0klriu3rk1rft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
